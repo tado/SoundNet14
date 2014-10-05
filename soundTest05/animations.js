@@ -30,7 +30,7 @@ Anim_s.prototype.draw = function() {
 };
 
 // ------------------------------------------------------
-// Animation d
+// Animation D
 function Anim_d() {
   this.rotate = 0;
   this.size = 0;
@@ -51,7 +51,7 @@ Anim_d.prototype.draw = function() {
 };
 
 // ------------------------------------------------------
-// Animation f
+// Animation F
 function Anim_f() {
   this.bgColor = 255;
   this.speed = -2;

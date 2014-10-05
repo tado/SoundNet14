@@ -12,7 +12,9 @@ function setup() {
 
 function draw() {
   background(0);
-  animation.draw();
+  if(animation){
+    animation.draw();
+  }
 }
 
 function keyTyped() {
