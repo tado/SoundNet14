@@ -5,11 +5,11 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(640, 480);
+  createCanvas(320, 240);
 }
 
 function draw() {
-  background(127);
+  background(200);
 }
 
 function mousePressed() {
