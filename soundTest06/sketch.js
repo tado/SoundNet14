@@ -3,7 +3,7 @@ var animation;
 var num;
 
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
   sample[0] = loadSound('assets/se01.wav');
   sample[1] = loadSound('assets/se02.wav');
   sample[2] = loadSound('assets/se03.wav');
